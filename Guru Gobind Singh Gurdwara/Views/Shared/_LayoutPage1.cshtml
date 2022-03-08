@@ -11,6 +11,21 @@
     <title>@ViewBag.Title</title>
 </head>
 <body>
+    <div class="col-md-10">
+        <img src="~/Images/Sikh temple 3.jpg" />
+    </div>
+    <div class="col-md-1">
+        <h6>Guru Gobind Singh Gurdwara , Sikh Temple , Ealing , London</h6>
+    </div>
+    <div class="col-md-1">
+        <h6>ਗੁਰੂ ਗੋਬਿੰਦ ਸਿੰਘ ਗੁਰਦੁਆਰਾ, ਸਿੱਖ ਟੈਂਪਲ, ਈਲਿੰਗ, ਲੰਡਨ</h6>
+    </div>
+    <nav style="color:blue">
+        @Html.ActionLink("Home", "Home", "Home")
+        @Html.ActionLink("About Us", "About", "Home")
+        @Html.ActionLink("Sikh History", "History", "Home")
+        @Html.ActionLink("Contact", "Contact", "Home")
+    </nav>
     <div>
         @RenderBody()
     </div>
