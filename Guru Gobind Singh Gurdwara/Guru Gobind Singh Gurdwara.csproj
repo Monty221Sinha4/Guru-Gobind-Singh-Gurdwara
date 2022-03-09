@@ -118,11 +118,17 @@
     <Content Include="Content\bootstrap.rtl.css" />
     <Content Include="Content\bootstrap.rtl.min.css" />
     <Content Include="Global.asax" />
+    <Content Include="Images\1984 1.jpg" />
+    <Content Include="Images\Guru Arjan dev 1.jpg" />
+    <Content Include="Images\Guru Nanak 1.jpg" />
     <Content Include="Images\Langar 13.jpg" />
+    <Content Include="Images\Sant JI 1.jpg" />
+    <Content Include="Images\Sikh Guru 2.jpg" />
     <Content Include="Images\Sikh Temple 1.jpg" />
     <Content Include="Images\Sikh temple 2.jpg" />
     <Content Include="Images\Sikh temple 3.jpg" />
     <Content Include="Images\Sikh temple 6.jpg" />
+    <Content Include="Images\Sikh War 2.jpg" />
     <Content Include="Images\Sikhs 4.jpg" />
     <Content Include="Scripts\bootstrap.bundle.js" />
     <Content Include="Scripts\bootstrap.bundle.min.js" />
@@ -185,6 +191,7 @@
     <Content Include="Views\Home\Home.cshtml" />
     <Content Include="Views\Home\About.cshtml" />
     <Content Include="Views\Home\Contact.cshtml" />
+    <Content Include="Views\Home\History.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
