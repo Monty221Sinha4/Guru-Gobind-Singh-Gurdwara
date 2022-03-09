@@ -118,9 +118,12 @@
     <Content Include="Content\bootstrap.rtl.css" />
     <Content Include="Content\bootstrap.rtl.min.css" />
     <Content Include="Global.asax" />
+    <Content Include="Images\Langar 13.jpg" />
     <Content Include="Images\Sikh Temple 1.jpg" />
     <Content Include="Images\Sikh temple 2.jpg" />
     <Content Include="Images\Sikh temple 3.jpg" />
+    <Content Include="Images\Sikh temple 6.jpg" />
+    <Content Include="Images\Sikhs 4.jpg" />
     <Content Include="Scripts\bootstrap.bundle.js" />
     <Content Include="Scripts\bootstrap.bundle.min.js" />
     <Content Include="Scripts\bootstrap.esm.js" />
@@ -180,6 +183,7 @@
     <Content Include="Scripts\jquery-3.6.0.slim.min.map" />
     <Content Include="Scripts\jquery-3.6.0.min.map" />
     <Content Include="Views\Home\Home.cshtml" />
+    <Content Include="Views\Home\About.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
