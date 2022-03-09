@@ -25,5 +25,6 @@ namespace Guru_Gobind_Singh_Gurdwara.Controllers
         {
             return View();
         }
+       
     }
 }
